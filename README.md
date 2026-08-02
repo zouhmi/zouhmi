@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Zouhmi</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/zouhmi/zouhmi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A6ADC8&center=true&vCenter=true&width=500&lines=Java+developer;Homelab+tinkerer;Open+source+enthusiast;Based+in+Sweden" alt="Typing animation" />
 </p>
 
@@ -51,9 +57,3 @@ Tech Support + Tester (staff). A Minecraft launcher with mods, FPS boost, and co
 - Running a homelab and tinkering with self-hosted infrastructure
 - Building and shipping mostly backend / infra projects
 - Open to interesting collaborations, reach out on Discord
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zouhmi/zouhmi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
