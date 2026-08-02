@@ -1,16 +1,26 @@
 <h1 align="center">Hi, I'm Zouhmi</h1>
 
 <p align="center">
-  Java developer / homelab tinkerer / open source enthusiast
-  <br>
-  Sweden
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A6ADC8&center=true&vCenter=true&width=500&lines=Java+developer;Homelab+tinkerer;Open+source+enthusiast;Based+in+Sweden" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://discord.com/users/419531846876135427"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31aul75m6eynitbjk7mppubg2flm"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://teto.devs.surf"><img src="https://img.shields.io/badge/Website-08080a?style=for-the-badge&logo=astro&logoColor=white" /></a>
+  <a href="https://zouhmi.com"><img src="https://img.shields.io/badge/Website-08080a?style=for-the-badge&logo=astro&logoColor=white" /></a>
 </p>
+
+---
+
+### Silent Client
+
+<p align="left">
+  <img src="https://cdn.discordapp.com/icons/1049253843000635443/5097a30954738ef6de7e428b6688b929.png?size=256" alt="Silent Client logo" width="80" />
+</p>
+
+Tech Support + Tester (staff). A Minecraft launcher with mods, FPS boost, and cosmetics.
+
+[Join the Discord](https://discord.gg/eMx7CbtRKu) | [My Profile](https://store.silentclient.net/account/Zouhmi) | [Get Silent Client](https://silentclient.net/ref/ff9beeb6b3)
 
 ---
 
@@ -39,21 +49,11 @@
 ### What I'm up to
 
 - Running a homelab and tinkering with self-hosted infrastructure
-- Tech support + tester (staff) for **[Silent Client](https://silentclient.net)**, a Minecraft launcher with mods, FPS boost, and cosmetics
 - Building and shipping mostly backend / infra projects
-- Open to interesting collaborations, check the badge above
+- Open to interesting collaborations, reach out on Discord
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zouhmi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Zouhmi's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zouhmi&theme=dark&hide_border=true" alt="Zouhmi's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zouhmi&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zouhmi&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/zouhmi/zouhmi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
